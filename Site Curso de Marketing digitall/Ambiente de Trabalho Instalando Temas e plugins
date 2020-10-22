@@ -33,3 +33,34 @@ Sites cuidadosamente desenvolvidos e prontos para uso para diferentes nichos, co
 
 MICROTHEMER 
  Um editor visual leve, mas poderoso, para personalizar o estilo CSS de qualquer aspecto do seu site, de fontes do Google a layouts responsivos. Microthemer atende codificadores e não codificadores, e funciona muito bem com construtores de páginas como Elementor, Beaver Builder e Oxygen.
+ Características principais (para codificadores e não codificadores)
+Personalize o estilo CSS de qualquer coisa em sua página, incluindo cabeçalhos, menus, barras laterais, rodapés e conteúdo de plug-in (por exemplo, formulários de contato).
+Editor visual intuitivo.
+Mais de 100 opções de estilo CSS à sua disposição. Fontes do Google, preenchimento, margem, planos de fundo, gradientes, sombras, filtros CSS, etc. Os estilos Pro-only incluem animação, transição, transformação, flexbox, grade CSS.
+Design responsivo sem as dores de cabeça habituais. Visualize seu site em diferentes tamanhos de tela e aplique estilos de consulta de mídia sem escrever código.
+Exporte seus projetos como um arquivo zip. Para compartilhar com amigos ou transferir entre domínios.
+Documentos no programa para que você possa aprender sobre CSS ou refrescar sua memória.
+Recurso de histórico, para que você possa voltar se cometer um erro.
+Modo de rascunho, para que você possa experimentar novos designs em um site ativo sem afetar o que os visitantes veem até que esteja pronto para publicar.
+Aplique estilos por página ou globalmente.
+Apply: hover indica qualquer outro pseudo seletor como: nth-child () sem ter que lembrar a sintaxe.
+Seletor de cores avançado para amostras de cores de seu tema e criação de paletas personalizadas.
+Importe consultas de mídia CSS, seletores e estilos de qualquer folha de estilo para a GUI do Microthemer.
+Peso leve. Microthemer gera CSS. Não tenta fazer muito mais do que isso.
+Segurança Nonce para ajudar a manter as coisas seguras.
+Suporta vários sites.
+Suporta sites SSL.
+Excelente suporte fornecido por meio de nosso fórum Microthemer dedicado.
+Tutorial gratuito de CSS, HTML e design responsivo.
+Animação baseada em eventos (por exemplo, onClick, inView)
+Trabalhe com qualquer unidade CSS, por exemplo em, rem,%, vw etc.
+Características principais apenas para codificadores
+Editor de código completo que permite escrever código no navegador enquanto olha a página.
+Editor de código de GUI híbrido se você deseja aproveitar o poder da GUI, mas prefere escrever propriedades e valores CSS manualmente.
+SCSS, CSS e JS com suporte.
+Enqueue bibliotecas JS nativas para WordPress como jQuery UI para experimentação rápida.
+Reduza o código CSS.
+Inspeção de HTML e CSS, semelhante aos inspetores de navegador.
+Atalhos de teclado para ações comuns.
+Validação de seletores personalizados com feedback visual enquanto você digita.
+Oculte dos clientes desinstalando ou desativando, mas ainda use o Microthemer CSS gerado, copiando e colando algumas linhas de código PHP no arquivo functions.php do seu tema.
