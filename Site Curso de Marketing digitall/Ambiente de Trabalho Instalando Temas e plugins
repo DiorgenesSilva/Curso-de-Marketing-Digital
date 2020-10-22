@@ -8,3 +8,28 @@ Alguns dos outros recursos: # Pronto para WooCommerce # responsivo # RTL e pront
 
 
 
+INSTALANDO PLUGINS
+
+EDITOR CLASSICO / CLASSIC EDITOR 
+O Classic Editor é um plugin oficial mantido pela equipe do WordPress que restaura o editor anterior (“clássico”) do WordPress e a tela “Editar post”. Ele torna possível o uso de plugins que estendem essa tela, adicionam meta boxes de estilo antigo ou dependem do editor anterior de alguma forma.
+
+Editor clássico é um plugin oficial do WordPress, e será totalmente suportado e mantido pelo menos até 2022, ou enquanto for necessário.
+
+De modo geral, este plugin acrescenta o seguinte:
+
+Os administradores podem selecionar o editor padrão para todos os usuários.
+Os administradores podem permitir que os usuários modifiquem seu editor padrão.
+Quando permitido, os usuários podem selecionar que editor usar para cada post.
+Cada post é aberto no último editor usado, independente de quem o editou por último. Isto é importante para manter uma experiência uniforme ao editar o conteúdo.
+Além disso, o plugin Editor Clássico inclui vários filtros que permitem que outros plugins controlem as configurações e a escolha do editor por post e por tipo de post.
+
+ULTIMATE ADDONS FOR GUTENBERG  
+O Ultimate Addons para Gutenberg foi construído para velocidade e desempenho junto com muita flexibilidade e facilidade de uso. Este é o único complemento avançado de que você pode precisar para construir um site completo com o editor WordPress padrão e o tema Astra. Essa combinação com certeza vai tirar o inchaço extra do seu site, tornando-o muito mais leve e rápido de carregar.  
+Basta escolher seus blocos favoritos dos Complementos Finais que aceleram o processo de construção de sites com configurações e personalizações fáceis de usar para um estilo visual intuitivo. 
+Com os Complementos Finais para Gutenberg, eliminamos o incômodo do processo de construção do site. Ele fornece uma série de blocos exclusivos e criativos para Gutenberg que ajudam a construir e projetar páginas ou postagens sem uma única linha de código. Uma interface fácil de usar e várias personalizações tornam mais fácil construir páginas e sites completos sem qualquer código personalizado.
+Esses sites iniciais do Gutenberg oferecem - 
+Sites prontos para pixels perfeitos nos quais você pode apenas alterar as imagens e o texto para torná-los seus.
+Sites cuidadosamente desenvolvidos e prontos para uso para diferentes nichos, como empresas locais, restaurantes, agências, lojas online, blogs, etc.
+
+MICROTHEMER 
+ Um editor visual leve, mas poderoso, para personalizar o estilo CSS de qualquer aspecto do seu site, de fontes do Google a layouts responsivos. Microthemer atende codificadores e não codificadores, e funciona muito bem com construtores de páginas como Elementor, Beaver Builder e Oxygen.
